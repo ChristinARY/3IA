@@ -1,0 +1,14 @@
+[09/May/2021:16:29:34] (I): WordPress Instance Info:
+[09/May/2021:16:29:34] (I): Home URL : http://localhost/monsite/wordpress
+[09/May/2021:16:29:34] (I): Site URL : http://localhost/monsite/wordpress
+[09/May/2021:16:29:34] (I): WordPress Version : 5.7.1
+[09/May/2021:16:29:34] (I): Onboarding Version : 1.1.10
+[09/May/2021:16:29:34] (I): Multisite : No
+[09/May/2021:16:29:34] (I): Server Info : Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1
+[09/May/2021:16:29:34] (I): PHP Version : 7.4.9
+[09/May/2021:16:29:34] (I): HTTPS : No
+[09/May/2021:16:29:34] (I): PHP Max Execution Time : 30
+[09/May/2021:16:29:34] (I): PHP Max Input Vars : 1000
+[09/May/2021:16:29:34] (I): Max Upload Size : 8388608
+[09/May/2021:16:29:34] (I): Plugins:
+[09/May/2021:16:29:34] (I): [PLUGIN] Templates Patterns Collection : v1.1.10 (ThemeIsle)
